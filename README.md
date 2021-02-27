@@ -1,6 +1,6 @@
 # PyImageRekognition
 
-## Image Rekongition using AWS S3, AWS Lambda, AWS Rekognition
+## Image Rekognition using AWS S3, AWS Lambda, AWS Rekognition
 
 ### what you need: AWS account - basic free 
 
